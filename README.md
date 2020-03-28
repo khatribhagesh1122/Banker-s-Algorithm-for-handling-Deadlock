@@ -1,1 +1,1 @@
-# deadlock-program-in-C-
+# deadlock-program-in-C++
