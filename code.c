@@ -1,4 +1,4 @@
-Code for Banker’s Algorithm
+//Code for Banker’s Algorithm
 
 
 #include<iostream>
